@@ -6,7 +6,7 @@ I primarily work in Unreal Engine 5, though I dabble in Godot and I've been cons
 I'm actively working on a much larger project that I'll be happy to share once I've got a little more to show off. I'm also always looking to collaborate if anyone wants to team up for a project!
 
 ## Software Development
-I'm taking classes towards my BS in Computer Science and I'll be uploading all the software that I 
+I'm taking classes towards my BS in Computer Science and I'll be uploading all the programs I write here to document my journey from ameteur programmer to a slightly-less ameteur programmer (or maybe even... dare I say... a professional programmer?)
 
 <!--
 **NJSP/NJSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
