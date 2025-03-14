@@ -6,11 +6,11 @@ I’m an Army veteran turned tech professional with a passion for solving proble
 
 💡 What I do:
 
-Build, troubleshoot, and optimize IT systems.
+- Build, troubleshoot, and optimize IT systems.
 
-Create dynamic projects like retro-style tools, eCommerce applications, and game mechanics.
+- Create dynamic projects like retro-style tools, eCommerce applications, and of course, indie video games!
 
-Learn and grow in the ever-evolving tech landscape.
+- Learn and grow in the ever-evolving tech landscape.
 
 🛠️ Skills & Tools: AWS | Python | C# | SQL | Django | CADD | Unity | Microsoft Suite
 
