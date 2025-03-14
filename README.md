@@ -16,4 +16,4 @@ Learn and grow in the ever-evolving tech landscape.
 
 🎯 What drives me: Combining creativity, logic, and technical skills to develop solutions that enhance user experiences and inspire others.
 
-Let’s connect and collaborate: LinkedIn | Itch.io
+Let’s connect and collaborate!
